@@ -1,6 +1,6 @@
 
 # Projeto sala de reunião
-Bootcamp Santander Bootcamp | Fullstack Developer Digital Inovation One - Gerenciador de salas de reuniões com Java e Angular 
+Santander Bootcamp | Fullstack Developer Digital Inovation One - Gerenciador de salas de reuniões com Java e Angular 
 
 Aplicação consiste em um CRUD usando as tecnicas de API Spring Boot em Back-End e Angular na camada Front-End.
 
